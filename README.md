@@ -7,7 +7,9 @@ Discrete S curve calculator for blockrewards. Used at https://github.com/energyw
 ## Quickstart
 
 With the desired params:
-```./reward.sh```
+```
+./reward.sh
+```
 
 Default params:
 ```
@@ -19,7 +21,9 @@ asypm=50
 ```
 
 If you fiddle with the code, compile first with
-```./compile.sh```
+```
+./compile.sh
+```
 
 ## Contributing
 
